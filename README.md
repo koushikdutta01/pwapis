@@ -1,2 +1,2 @@
 # pwapis
- This are Rest Apis ceated with Mysql Database .
+ These are Rest Apis created with Mysql Database .
